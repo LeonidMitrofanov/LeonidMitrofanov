@@ -1,6 +1,6 @@
 # Hi, I'm Leo! 👋
 
-I'm a student at Kazan Federal University 🎓, studying at the Department of Applied Mathematics and Artificial Intelligence 🤖. My focus is on **Data Science** 📊, **ML** 🧠, and **CV** 🖼️. I'm eager to enhance my skills in data analysis and the development of AI solutions 💻.
+I'm a student at Kazan Federal University 🎓, studying at the Department of Applied Mathematics and Artificial Intelligence 🤖. My focus is on **Data Science** 📊, **ML** 🧠, and **CV** 🖼️. I'm eager to enhance my skills in scientific research and the development of AI solutions 💻.
 
 ## What I'm studying:
 - Machine Learning (ML) 🤖
