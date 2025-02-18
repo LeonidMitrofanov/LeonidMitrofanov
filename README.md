@@ -18,6 +18,10 @@ I'm a student at Kazan Federal University 🎓, studying at the Department of Ap
 
 3. **[s21_decimal](https://github.com/LeonidMitrofanov/s21_decimal)**: Implementation of a library for working with decimal numbers (`decimal`) in C 💰. This data type helps avoid rounding errors 🔄 typical of `float` and is suitable for financial calculations 💵.
 
+## Projects from Kazan Federal University:
+1. **[Three-Body Problem](https://github.com/LeonidMitrofanov/Three-Body_Problem)**: A C++ project for solving the three-body problem 🌌 using numerical methods. It implements the Runge-Kutta 4th order method 🧮 to simulate the motion of celestial bodies, such as the Earth 🌍, Moon 🌕, and a small satellite 🛰️. The project supports solving both test ODE systems (e.g., periodic orbits with exact solutions) and complex three-body dynamics (e.g., Arenstorf orbits). Results are saved in .csv files 📊 for easy visualization and analysis.
+
+
 ## Contacts:
 - 📧 **Email**: alforfon@bk.ru
 - 📱 **Telegram**: [@alforfon_chik](https://t.me/alforfon_chik)
