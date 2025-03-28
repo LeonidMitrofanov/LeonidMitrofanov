@@ -1,6 +1,6 @@
 # Hi, I'm Leo! 👋
 
-I'm a student at **Kazan Federal University** 🎓, studying **Computational Mathematics and Artificial Intelligence** 🤖. My focus areas are **Machine Learning** 🧠, **Data Science** 📊 and **Computer Vision** 🖼️. I'm passionate about advancing my skills in **AI research** and **developing practical solutions** 💻.
+I'm a student at **Kazan Federal University** 🎓, studying **Applied Mathematics and Artificial Intelligence** 🤖. My focus areas are **Machine Learning** 🧠, **Data Science** 📊 and **Computer Vision** 🖼️. I'm passionate about advancing my skills in **AI research** and **developing practical solutions** 💻.
 
 ### **What I'm Studying** 📚:
 - Machine Learning (ML) & Deep Learning 🤖
