@@ -20,7 +20,7 @@ I'm a student at **Kazan Federal University** 🎓, studying **Applied Mathemati
 - OS: **Linux** 🐧, **Windows** 🪟
 </details>
 
-## 🚀 My Projects
+## 🚀 Projects
 
 <details>
 <summary><b>ML</b></summary>
@@ -56,6 +56,6 @@ I'm a student at **Kazan Federal University** 🎓, studying **Applied Mathemati
    - A bot that incentivizes user engagement through tasks ✅ and reward points 🎯
 </details>
 
-## 📬 Contact Me
+## 📬 Contact
 - 📧 **Email**: alforfon@bk.ru
 - 📱 **Telegram**: [@alforfon_chik](https://t.me/alforfon_chik)
