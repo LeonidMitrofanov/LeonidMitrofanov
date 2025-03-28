@@ -1,33 +1,35 @@
 # Hi, I'm Leo! 👋
 
-I'm a student at Kazan Federal University 🎓, studying at the Department of Computational Mathematics and Artificial Intelligence 🤖. My focus is on **Data Science** 📊, **ML** 🧠, and **CV** 🖼️. I'm eager to enhance my skills in scientific research and the development of AI solutions 💻.
+I'm a student at **Kazan Federal University** 🎓, studying **Computational Mathematics and Artificial Intelligence** 🤖. My focus areas are **Machine Learning** 🧠, **Data Science** 📊 and **Computer Vision** 🖼️. I'm passionate about advancing my skills in **AI research** and **developing practical solutions** 💻.
 
-## What I'm studying:
-- Machine Learning (ML) 🤖
-- Computer Vision and Image Processing 👁️
-- Probability Theory and Statistics 📚
-- Working with Python 🐍, C/C++ 💻, Bash 🖥️, GitHub 🌐
+### **What I'm Studying** 📚:
+- Machine Learning (ML) & Deep Learning 🤖
+- Computer Vision & Image Processing 👁️
+- Probability Theory & Statistics 📊
+- Programming: **Python** 🐍, **C/C++** 💻, **Bash** 🖥️, **Git/GitHub** 🌐
 
-## Key Projects:
-1. **[Gamification Telegram Bot](https://github.com/LeonidMitrofanov/Gamification_tg_bot)**: A Telegram bot 🤖 that implements gamification elements 🎮. Users can complete various tasks ✅ and earn points 🎯, which encourages more active interaction.
+### **Key Projects**:
+1. **[Gamification Telegram Bot](https://github.com/LeonidMitrofanov/Gamification_tg_bot)** 🤖🎮
+   - A bot that incentivizes user engagement through tasks ✅ and reward points 🎯.
 
-## Projects from School21:
-1. **[s21_string](https://github.com/LeonidMitrofanov/s21_string)**: Implementation of the standard `string.h` library in C 💡 with additional features ✨. It includes basic string manipulation functions 🔠, as well as partial implementations of `sprintf` and `sscanf`.
+### **ML Projects**:
+1. **[House Price Prediction](https://github.com/LeonidMitrofanov/)** 🏡💰
+   - Exploratory Data Analysis (EDA) 🔍 + ML modeling to predict real estate prices.
 
-2. **[s21_math](https://github.com/LeonidMitrofanov/s21_math)**: Implementation of the standard `math.h` library in C ➗. It includes basic mathematical functions used in computations 🔢.
+### **School21 Projects**:
+1. **[s21_string](https://github.com/LeonidMitrofanov/s21_string)** 🔠
+   - Custom `string.h` implementation with `sprintf`/`sscanf` support. 
+2. **[s21_math](https://github.com/LeonidMitrofanov/s21_math)** ➗  
+   - Replica of `math.h` for numerical computations.
+3. **[s21_decimal](https://github.com/LeonidMitrofanov/s21_decimal)** 💰  
+   - Precision arithmetic library for financial calculations.
+4. **[s21_matrix](https://github.com/LeonidMitrofanov/s21_matrix)** 📐  
+   - Matrix operations (addition, multiplication, determinants).
 
-3. **[s21_decimal](https://github.com/LeonidMitrofanov/s21_decimal)**: Implementation of a library for working with decimal numbers (`decimal`) in C 💰. This data type helps avoid rounding errors 🔄 typical of `float` and is suitable for financial calculations 💵.
+### **Kazan Federal University Projects** 🌌:
+1. **[Three-Body Problem Solver](https://github.com/LeonidMitrofanov/Three-Body_Problem)** 🌍🌕🛰️
+   - Simulates celestial mechanics using **Runge-Kutta 4th-order** in C++.
 
-4. **[s21_matrix](https://github.com/LeonidMitrofanov/s21_matrix)**: Implementation of a matrix library in C. The project includes basic matrix operations such as ➕ addition, ✖️ multiplication, 🔄 transposition, and 📐 determinant calculation.
-
-## Projects from Kazan Federal University:
-1. **[Three-Body Problem](https://github.com/LeonidMitrofanov/Three-Body_Problem)**: A C++ project for solving the three-body problem 🌌 using numerical methods. It implements the Runge-Kutta 4th order method 🧮 to simulate the motion of celestial bodies, such as the Earth 🌍, Moon 🌕, and a small satellite 🛰️. The project supports solving both test ODE systems (e.g., periodic orbits with exact solutions) and complex three-body dynamics (e.g., Arenstorf orbits). Results are saved in .csv files 📊 for easy visualization and analysis.
-
-
-## Contacts:
+### **Contact Me** 📬:
 - 📧 **Email**: alforfon@bk.ru
 - 📱 **Telegram**: [@alforfon_chik](https://t.me/alforfon_chik)
-
-<!--
-Feel free to add more details or projects! 🚀
--->
