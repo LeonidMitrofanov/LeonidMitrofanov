@@ -9,27 +9,35 @@ I'm a student at **Kazan Federal University** 🎓, studying **Applied Mathemati
 - Machine Learning (ML) & Deep Learning 🤖
 - Computer Vision & Image Processing 👁️
 - Probability Theory & Statistics 📊
-- Programming: **Python** 🐍, **C/C++** 💻, **Bash** 🖥️, **Git/GitHub** 🌐
-</details>
-
-## 🚀 Projects
-
-<details>
-<summary><b>Key Projects</b></summary>
-
-1. **[Gamification Telegram Bot](https://github.com/LeonidMitrofanov/Gamification_tg_bot)** 🤖🎮  
-   - A bot that incentivizes user engagement through tasks ✅ and reward points 🎯
 </details>
 
 <details>
-<summary><b>ML Projects</b></summary>
+<summary><b>Technical Skills</b> 🛠️</summary>
+
+- Languages: **Python** 🐍, **C/C++** ⚡ 
+- DevOps: **Bash** 🐚 | **Docker** 🐳
+- VCS: **Git** (GitHub/GitLab) 🐙
+- OS: **Linux** 🐧, **Windows** 🪟
+</details>
+
+## 🚀 My Projects
+
+<details>
+<summary><b>ML</b></summary>
 
 1. **[House Price Prediction](https://github.com/LeonidMitrofanov/)** 🏡💰  
    - Exploratory Data Analysis (EDA) 🔍 + ML modeling to predict real estate prices
 </details>
 
 <details>
-<summary><b>School21 Projects (C Programming)</b></summary>
+<summary><b>University</b></summary>
+
+1. **[Three-Body Problem Solver](https://github.com/LeonidMitrofanov/Three-Body_Problem)** 🌍🌕🛰️  
+   - Simulates celestial mechanics using **Runge-Kutta 4th-order** in C++
+</details>
+
+<details>
+<summary><b>School21 (C Programming)</b></summary>
 
 1. **[s21_string](https://github.com/LeonidMitrofanov/s21_string)** 🔠  
    - Custom `string.h` implementation with `sprintf`/`sscanf` support
@@ -42,10 +50,10 @@ I'm a student at **Kazan Federal University** 🎓, studying **Applied Mathemati
 </details>
 
 <details>
-<summary><b>University Projects</b></summary>
+<summary><b>Python</b></summary>
 
-1. **[Three-Body Problem Solver](https://github.com/LeonidMitrofanov/Three-Body_Problem)** 🌍🌕🛰️  
-   - Simulates celestial mechanics using **Runge-Kutta 4th-order** in C++
+1. **[Gamification Telegram Bot](https://github.com/LeonidMitrofanov/Gamification_tg_bot)** 🤖🎮  
+   - A bot that incentivizes user engagement through tasks ✅ and reward points 🎯
 </details>
 
 ## 📬 Contact Me
