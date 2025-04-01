@@ -25,35 +25,38 @@ I'm a student at **Kazan Federal University** 🎓, studying **Applied Mathemati
 <details>
 <summary><b>ML</b></summary>
 
-1. **[House Price Prediction](https://github.com/LeonidMitrofanov/)** 🏡💰  
-   - Exploratory Data Analysis (EDA) 🔍 + ML modeling to predict real estate prices
+**[House Price Prediction](https://github.com/LeonidMitrofanov/)** 🏡💰  
+- Exploratory Data Analysis (EDA) 🔍 + ML modeling to predict real estate prices
 </details>
 
 <details>
 <summary><b>University</b></summary>
 
-1. **[Three-Body Problem Solver](https://github.com/LeonidMitrofanov/Three-Body_Problem)** 🌍🌕🛰️  
-   - Simulates celestial mechanics using **Runge-Kutta 4th-order** in C++
+**[Three-Body Problem Solver](https://github.com/LeonidMitrofanov/Three-Body_Problem)** 🌍🌕🛰️  
+- Simulates celestial mechanics using **Runge-Kutta 4th-order** in C++
 </details>
 
 <details>
-<summary><b>School21 (C Programming)</b></summary>
+<summary><b>School21</b></summary>
+   
+**[Matrix](https://github.com/LeonidMitrofanov/s21_matrix)** 📐  
+- Matrix operations (addition, multiplication, determinants)
 
-1. **[s21_string](https://github.com/LeonidMitrofanov/s21_string)** 🔠  
-   - Custom `string.h` implementation with `sprintf`/`sscanf` support
-2. **[s21_math](https://github.com/LeonidMitrofanov/s21_math)** ➗  
-   - Replica of `math.h` for numerical computations
-3. **[s21_decimal](https://github.com/LeonidMitrofanov/s21_decimal)** 💰  
-   - Precision arithmetic library for financial calculations
-4. **[s21_matrix](https://github.com/LeonidMitrofanov/s21_matrix)** 📐  
-   - Matrix operations (addition, multiplication, determinants)
+**[String](https://github.com/LeonidMitrofanov/s21_string)** 🔠  
+- Custom `string.h` implementation with `sprintf`/`sscanf` support
+  
+**[Math](https://github.com/LeonidMitrofanov/s21_math)** ➗
+- Replica of `math.h` for numerical computations
+
+**[Decimal](https://github.com/LeonidMitrofanov/s21_decimal)** 💰  
+- Precision arithmetic library for financial calculations
 </details>
 
 <details>
 <summary><b>Python</b></summary>
 
-1. **[Gamification Telegram Bot](https://github.com/LeonidMitrofanov/Gamification_tg_bot)** 🤖🎮  
-   - A bot that incentivizes user engagement through tasks ✅ and reward points 🎯
+**[Gamification Telegram Bot](https://github.com/LeonidMitrofanov/Gamification_tg_bot)** 🤖🎮  
+- A bot that incentivizes user engagement through tasks ✅ and reward points 🎯
 </details>
 
 ## 📬 Contact
