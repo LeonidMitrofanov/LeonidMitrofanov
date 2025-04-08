@@ -3,13 +3,6 @@
 I'm a student at **Kazan Federal University** 🎓, studying **Applied Mathematics and Artificial Intelligence** 🤖. My focus areas are **Machine Learning** 🧠, **Data Science** 📊 and **Computer Vision** 🖼️. I'm passionate about advancing my skills in **AI research** and **developing practical solutions** 💻.
 
 ## 🔍 About Me
-<details>
-<summary><b>What I'm Studying</b> 📚</summary>
-
-- Machine Learning (ML) & Deep Learning 🤖
-- Computer Vision & Image Processing 👁️
-- Probability Theory & Statistics 📊
-</details>
 
 <details>
 <summary><b>Technical Skills</b> 🛠️</summary>
@@ -18,6 +11,13 @@ I'm a student at **Kazan Federal University** 🎓, studying **Applied Mathemati
 - DevOps: **Bash** 🐚 | **Docker** 🐳
 - VCS: **Git** (GitHub/GitLab) 🐙
 - OS: **Linux** 🐧, **Windows** 🪟
+</details>
+
+<details>
+<summary><b>Online Profiles</b> 🌐</summary>
+   
+- **LeetCode**: [MitrofanovLeonid](https://leetcode.com/u/MitrofanovLeonid/) 🧠
+- **Kaggle**: [mitrofanovleonid](https://www.kaggle.com/mitrofanovleonid) 📊
 </details>
 
 ## 🚀 Projects
@@ -60,5 +60,5 @@ I'm a student at **Kazan Federal University** 🎓, studying **Applied Mathemati
 </details>
 
 ## 📬 Contact
-- 📧 **Email**: alforfon@bk.ru
+- 📧 **Email**: [alforfon@bk.ru](mail:alforfon@bk.ru)
 - 📱 **Telegram**: [@alforfon_chik](https://t.me/alforfon_chik)
