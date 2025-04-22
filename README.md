@@ -7,17 +7,17 @@ I'm a student at **Kazan Federal University** 🎓, studying **Applied Mathemati
 <details>
 <summary><b>Technical Skills</b> 🛠️</summary>
 
-- Languages: **Python** 🐍, **C/C++** ⚡ 
-- DevOps: **Bash** 🐚 | **Docker** 🐳
-- VCS: **Git** (GitHub/GitLab) 🐙
-- OS: **Linux** 🐧, **Windows** 🪟
+- Languages: **Python**, **C/C++**
+- DevOps: **Bash**| **Docker**
+- VCS: **Git** (GitHub/GitLab)
+- OS: **MacOS**, **Linux**, **Windows**
 </details>
 
 <details>
 <summary><b>Online Profiles</b> 🌐</summary>
    
-- **LeetCode**: [MitrofanovLeonid](https://leetcode.com/u/MitrofanovLeonid/) 🧠
-- **Kaggle**: [mitrofanovleonid](https://www.kaggle.com/mitrofanovleonid) 📊
+- **LeetCode**: [MitrofanovLeonid](https://leetcode.com/u/MitrofanovLeonid/)
+- **Kaggle**: [mitrofanovleonid](https://www.kaggle.com/mitrofanovleonid)
 </details>
 
 ## 🚀 Projects
