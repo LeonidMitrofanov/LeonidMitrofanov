@@ -8,6 +8,7 @@ I'm a student at **Kazan Federal University** 🎓, studying **Applied Mathemati
 <summary><b>Technical Skills</b> 🛠️</summary>
 
 - Languages: **Python**, **C/C++**
+- Database: **SQL**
 - DevOps: **Bash**, **Docker**
 - VCS: **Git** (GitHub/GitLab)
 - OS: **MacOS**, **Linux**, **Windows**
