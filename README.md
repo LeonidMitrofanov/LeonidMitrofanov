@@ -18,7 +18,6 @@ I'm a student at **Kazan Federal University** 🎓, studying **Applied Mathemati
 <summary><b>Online Profiles</b> 🌐</summary>
    
 - **LeetCode**: [MitrofanovLeonid](https://leetcode.com/u/MitrofanovLeonid/)
-# - **Kaggle**: [mitrofanovleonid](https://www.kaggle.com/mitrofanovleonid)
 </details>
 
 ## 🚀 Projects
