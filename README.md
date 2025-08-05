@@ -58,10 +58,10 @@ I'm a student at **Kazan Federal University** 🎓, studying **Applied Mathemati
 
 **[Decimal](https://github.com/LeonidMitrofanov/s21_decimal)** 💰  
 - Precision arithmetic library for financial calculations in C
-</details>
 
 **[String](https://github.com/LeonidMitrofanov/s21_string)** 🔠  
 - Custom `string.h` implementation with `sprintf`/`sscanf` support in C
+</details>
 
 
 ## 📬 Contact
